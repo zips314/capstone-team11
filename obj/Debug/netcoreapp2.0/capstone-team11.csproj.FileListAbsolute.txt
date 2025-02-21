@@ -1,0 +1,11 @@
+/Users/eksha/Documents/capstone/capstone-team11/bin/Debug/netcoreapp2.0/capstone-team11.deps.json
+/Users/eksha/Documents/capstone/capstone-team11/bin/Debug/netcoreapp2.0/capstone-team11.runtimeconfig.json
+/Users/eksha/Documents/capstone/capstone-team11/bin/Debug/netcoreapp2.0/capstone-team11.runtimeconfig.dev.json
+/Users/eksha/Documents/capstone/capstone-team11/bin/Debug/netcoreapp2.0/capstone-team11.dll
+/Users/eksha/Documents/capstone/capstone-team11/bin/Debug/netcoreapp2.0/capstone-team11.pdb
+/Users/eksha/Documents/capstone/capstone-team11/obj/Debug/netcoreapp2.0/capstone-team11.csprojAssemblyReference.cache
+/Users/eksha/Documents/capstone/capstone-team11/obj/Debug/netcoreapp2.0/capstone-team11.csproj.CoreCompileInputs.cache
+/Users/eksha/Documents/capstone/capstone-team11/obj/Debug/netcoreapp2.0/capstone-team11.AssemblyInfoInputs.cache
+/Users/eksha/Documents/capstone/capstone-team11/obj/Debug/netcoreapp2.0/capstone-team11.AssemblyInfo.cs
+/Users/eksha/Documents/capstone/capstone-team11/obj/Debug/netcoreapp2.0/capstone-team11.dll
+/Users/eksha/Documents/capstone/capstone-team11/obj/Debug/netcoreapp2.0/capstone-team11.pdb
